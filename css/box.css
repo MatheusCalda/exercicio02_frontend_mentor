@@ -1,0 +1,137 @@
+.box01 {
+  background-color: var(--cor-02);
+  width: 520px;
+  height: 260px;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.cabecalho01 h1 {
+  color: var(--cor-00);
+}
+
+.cabecalho01 p {
+  color: var(--cor-00);
+  opacity: 0.7;
+}
+
+.box-texto01 h2 {
+  font-size: 1.125rem;
+  color: var(--cor-00);
+  margin-bottom: 20px;
+}
+.box-texto01 p {
+  font-size: 0.875rem;
+  color: var(--cor-00);
+  opacity: 0.7;
+  line-height: 1.125rem;
+}
+
+.box02 {
+  background-color: var(--cor-03);
+  width: 230px;
+  height: 260px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.cabecalho02 h1 {
+  color: var(--cor-00);
+}
+
+.cabecalho02 p {
+  color: var(--cor-00);
+  opacity: 0.7;
+}
+
+.box-texto02 h2 {
+  font-size: 1.125rem;
+  color: var(--cor-00);
+  margin-bottom: 20px;
+}
+.box-texto02 p {
+  font-size: 0.875rem;
+  color: var(--cor-00);
+  opacity: 0.7;
+  line-height: 1.125rem;
+}
+
+.box03 {
+  background-color: var(--cor-00);
+  width: 230px;
+  padding: 20px;
+  grid-row: 1/-1;
+  grid-column: 3;
+  border-radius: 10px;
+}
+
+.cabecalho03 p {
+  color: var(--cor-01);
+  opacity: 0.7;
+}
+
+.box-texto03 h2 {
+  font-size: 1.125rem;
+  color: var(--cor-04);
+  margin-bottom: 20px;
+}
+.box-texto03 p {
+  font-size: 0.875rem;
+  color: var(--cor-04);
+  opacity: 0.7;
+  line-height: 1.125rem;
+}
+.box04 {
+  background-color: var(--cor-00);
+  width: 230px;
+  height: 260px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.cabecalho04 p {
+  color: var(--cor-01);
+  opacity: 0.7;
+}
+
+.box-texto04 h2 {
+  font-size: 1.125rem;
+  color: var(--cor-04);
+  margin-bottom: 20px;
+}
+.box-texto04 p {
+  font-size: 0.875rem;
+  color: var(--cor-04);
+  opacity: 0.7;
+  line-height: 1.125rem;
+}
+
+.box05 {
+  background-color: var(--cor-04);
+  width: 520px;
+  height: 260px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: -290px;
+}
+
+.cabecalho05 h1 {
+  color: var(--cor-00);
+}
+.cabecalho05 p {
+  color: var(--cor-00);
+  opacity: 0.7;
+}
+
+.box-texto05 h2 {
+  font-size: 1.125rem;
+  color: var(--cor-00);
+  margin-bottom: 20px;
+}
+.box-texto05 p {
+  font-size: 0.875rem;
+  color: var(--cor-00);
+  opacity: 0.7;
+  line-height: 1.125rem;
+}
